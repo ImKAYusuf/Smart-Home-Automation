@@ -1,1 +1,2 @@
 # Smart-Home-Automation
+#Implemented a Smart Home Automation system using NodeMCU (ESP8266) and relay modules to control household appliances like lights through Wi-Fi. Integrated the setup with the Sinric Pro platform to enable remote access via mobile application and hands-free operation using Amazon Alexa and Google Assistant. The system was programmed using Arduino IDE, utilizing cloud APIs for real-time device control and status updates. This project strengthened my skills in IoT, embedded systems, cloud integration, and voice-controlled automation.
